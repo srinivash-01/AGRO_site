@@ -1,0 +1,23 @@
+.carousel img {
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.car{
+    margin-top: 0px;
+}
+.carousel{
+    height: 300px;
+}
+.container{
+    margin-top: -16px !important;
+}
+.carousel-inner {
+    position: relative;
+    width: 121.5%;
+    overflow: hidden;
+    margin-left: -120px;
+}
